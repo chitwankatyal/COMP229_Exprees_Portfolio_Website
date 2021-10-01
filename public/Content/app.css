@@ -11,4 +11,76 @@ Date: October 03, 2021
 /* Custom css goes here */
 
 /* Css for Home Page */
+html {
+    margin-bottom: 65px
+}
 
+#homeBody{
+   background-image: url(/Assets/images/backgroundImage.jpg);
+   background-position: center;
+   background-size: 1400px 1000px; 
+}
+
+#welcomeMessage{
+   text-align: center;
+   font-family: Verdana;
+   font-weight: bolder;
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color:rgb(150, 0, 170);
+   color:rgb(255, 137, 249)
+}
+
+#allPage{
+   width: 450px;
+   margin: auto;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   text-align: center;
+   background-color: rgba(0, 0, 0, 0.712);
+   padding: 10px;
+   border-style: double;
+   border-radius: 20px;
+   border-color:rgb(233, 70, 225);
+   color: white;
+}
+
+#myPicture{
+   width: 300px;
+   height: 350px;
+   border-radius: 50%;
+   border-color:rgb(233, 70, 225);
+   border-style: double;
+}
+
+#courseText{
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: 500;
+   font-size: medium;
+}
+
+#name{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight:600;
+}
+#missionStatement{
+   font-family: Arial, Helvetica, sans-serif;
+   font-variant: small-caps;
+   font-weight: bold;
+   color:rgb(244, 198, 255);
+}
+
+.btn{
+   background-color: rgb(233, 70, 225);
+}
+
+.btn:hover{
+       background-color: purple;
+}
+
+#navbar{
+   background-color: rgba(0, 0, 0, 0.657);
+}
+
+#bottom_nav{
+   background-color: rgba(0, 0, 0, 0.815);
+}
