@@ -84,3 +84,71 @@ html {
 #bottom_nav{
    background-color: rgba(0, 0, 0, 0.815);
 }
+
+/* Css for About me page */
+#myPhoto{
+   width: 350px;
+   height: 350px;
+   border-radius: 50%;
+   border-color:rgb(144, 238, 199);
+   border-style: dotted;
+}
+
+#about{
+   width: 550px;
+   margin: auto;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   text-align: center;
+   background-color: rgb(1, 44, 28);
+   padding: 10px;
+   border-style:dotted;
+   border-radius: 20px;
+   border-color:rgb(144, 238, 199);
+}
+
+#aboutMe{
+   text-align: center;
+   font-family: Verdana;
+   font-weight: bold;
+   color:rgb(144, 238, 199);
+}
+
+#aboutHeading{
+   text-align: center;
+   font-family: Verdana;
+   font-weight: bold;
+   color:rgb(144, 238, 199);
+}
+
+#aboutBody{
+   background-image: url(/Assets/images/aboutBackground.jpg);
+   background-position: center;
+   background-size: 1400px 1000px; 
+   color:white;
+}
+
+#paragraph{
+   text-align: justify;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+#hobbies{
+   text-align: center;
+   font-family: Verdana;
+   font-weight: bold;
+   color:rgb(144, 238, 199);
+}
+
+#myHobbies{
+   text-align: justify;
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#resume{
+   color: lightgreen;
+}
+#resume:hover{
+   color:yellow;
+}
