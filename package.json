@@ -25,5 +25,21 @@
   "description": "Express Portfolio Website",
   "main": "index.js",
   "author": "Chitwan Katyal",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chitwankatyal/COMP229_Exprees_Portfolio_Website.git"
+  },
+  "keywords": [
+    "Express",
+    "Portfolio",
+    "-",
+    "Chitwan",
+    "Katyal"
+  ],
+  "bugs": {
+    "url": "https://github.com/chitwankatyal/COMP229_Exprees_Portfolio_Website/issues"
+  },
+  "homepage": "https://github.com/chitwankatyal/COMP229_Exprees_Portfolio_Website#readme"
 }
