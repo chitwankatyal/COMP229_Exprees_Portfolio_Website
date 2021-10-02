@@ -152,3 +152,250 @@ html {
 #resume:hover{
    color:yellow;
 }
+
+/* Css for Projects Page */
+#projectsBody{
+   background-image: url(/Assets/images/bgProjects.jpg);
+   background-size: 1400px 1400px;
+}
+#projectsTable1 {
+   text-align: center;
+   padding: 10px;
+}
+
+#projectsTable2 {
+   text-align: center;
+   padding: 10px;
+}
+
+th {
+   padding: 10px;
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   font-variant: small-caps;
+   font-weight:bolder;
+   font-size:xx-large;
+   color:rgb(255, 170, 196);
+}
+
+td{
+   padding: 10px;
+   text-align: center;
+}
+
+#projectsHeading{
+   text-align: center;
+   font-family: Verdana;
+   font-weight: bolder;
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color:rgb(150, 0, 170);
+   color:rgb(255, 116, 174);
+}
+
+#heading{
+   text-align: center;
+   font-family: Verdana;
+   color:rgb(255, 170, 196);
+}
+
+#javascript{
+   font-family: Arial, Helvetica, sans-serif;
+   font-variant: small-caps;
+   font-weight: bold;
+   font-size:xx-large;
+   color:rgb(255, 170, 196);
+   
+}
+
+#weather{
+   width: 350px;
+   height: 350px;
+   border-style: solid;
+   border-radius: 30px;  
+   border-color:rgb(255, 116, 174);
+}
+
+#bugSmasher{
+   width: 350px;
+   height: 350px;
+   border-style: solid;
+   border-radius: 30px; 
+   border-color:rgb(255, 116, 174);
+}
+
+#bounceBall{
+   width: 450px;
+   height: 350px;
+   border-style: solid;
+   border-radius: 30px;
+   border-color:rgb(255, 116, 174);
+}
+
+#form{
+   width: 350px;
+   height: 350px;
+   border-style: solid;
+   border-radius: 30px;
+   border-color:rgb(255, 116, 174);
+}
+
+#database{
+   width: 350px;
+   height: 350px;
+   border-style: solid;
+   border-radius: 30px;
+   border-color:rgb(255, 116, 174);
+}
+
+#python{
+   width: 350px;
+   height: 350px;
+   border-style: solid;
+   border-radius: 30px;
+   border-color:rgb(255, 116, 174);
+
+}
+
+#link1{
+       color:rgb(250, 203, 221); 
+   }
+
+#link1:hover{
+   color:yellow;
+}    
+
+#link2{
+   color:rgb(250, 203, 221); 
+}
+
+#link2:hover{
+color:yellow;
+}    
+
+#otherProjects{
+   text-align: center;
+   font-family: Verdana;
+   color:rgb(255, 116, 174);
+   font-weight: bolder;
+   font-size: xx-large;
+}
+
+#projects{
+   width: auto;
+   margin: auto;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   text-align: center;
+   color:white;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight:bold;
+   background-color: rgba(0, 0, 0, 0.432);
+   padding: 10px;
+   border-style: double;
+   border-radius: 20px;
+   border-color:rgb(255, 116, 174);
+}
+
+/* Css for Services Page */
+#services{
+   width: 980px;
+   margin: auto;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   background-color: rgba(0, 0, 0, 0.794);
+   padding: 10px;
+   border-style: double;
+   border-radius: 20px;
+   border-color:red;
+   
+}
+
+#servicesBody{
+   background-image: url(/Assets/images/keyboard.jpg);
+   background-size: 1400px 1400px;
+}
+
+#technicalSkills{
+   width: 980px;
+   margin: auto;
+   margin-top: 20px;
+   margin-bottom: 15px;
+   background-color: rgba(0, 0, 0, 0.794);
+   padding: 30px;
+   border-style: double;
+   border-radius: 20px;
+   border-color:red;
+}
+#realEstate{
+   width: 400px;
+   height: 300px;
+   border-style: solid;
+   border-radius: 30px;
+   border-color:rgb(255, 133, 133);
+   border-style:solid;
+}
+
+#centennialForm{
+   width: 400px;
+   height: 300px;
+   border-style: solid;
+   border-radius: 30px;
+   border-color:rgb(255, 133, 133);
+   border-style:solid;
+}
+
+#bmiCalculator{
+   width: 400px;
+   height: 300px;
+   border-style: solid;
+   border-radius: 30px;  
+   border-color:rgb(255, 133, 133);
+   border-style:solid; 
+}
+
+#slideShow{
+   width: 400px;
+   height: 300px;
+   border-style: solid;
+   border-radius: 30px; 
+   border-color:rgb(255, 133, 133);
+   border-style:solid;
+}
+
+#techSkills{
+   width: 300px;
+   height: 250px;
+   border-style: solid;
+   border-radius: 30px;
+   border-color:rgb(255, 133, 133);
+   border-style:solid;
+}
+td{
+   text-align: center;
+}
+
+#servicesHeading{
+   text-align: center;
+   font-family: Verdana;
+   font-weight: bolder;
+   color: red;
+}
+#heading{
+   text-align: center;
+   font-family: Verdana;
+   color: rgb(255, 133, 133);
+   font-weight: bold;
+}
+
+li{
+   color: white;
+   font-size:x-large;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+#technicalSkillsHeading{
+   text-align: center;
+   font-family: Verdana;
+   font-weight: bolder;
+   color: red;
+}
